@@ -1,5 +1,0 @@
-cooking: it's zen
-traveling: see the world
-movies: entertainment
-reading: new worlds
-dancing: fun
